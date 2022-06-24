@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 15 12:00:52 ICT 2022
+nexus-staging-maven-plugin-1.4.8.jar>rso-public-grid=
+nexus-staging-maven-plugin-1.4.8.pom>central=
+nexus-staging-maven-plugin-1.4.8.pom>rso-public-grid=
+nexus-staging-maven-plugin-1.4.8.jar>central=

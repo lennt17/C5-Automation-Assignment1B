@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+	<parameter name="browser" value="Chrome" />
+	<listeners>
+		<listener class-name="com.vmo.listener.TestNGListener"></listener>
+	</listeners>
+	<test name="Test Search" preserve-order="true" verbose="2">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="com.vmo.test.DemoTest"></class>
+		</classes>
+	</test>
+</suite>

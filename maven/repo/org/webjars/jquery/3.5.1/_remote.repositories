@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 13 14:13:14 ICT 2022
+jquery-3.5.1.jar>central=
+jquery-3.5.1.pom>central=
+jquery-3.5.1-sources.jar>central=

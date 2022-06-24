@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 29 16:25:50 ICT 2022
+async-http-client-2.12.3.jar>central=
+async-http-client-2.12.3-sources.jar>central=
+async-http-client-2.12.3.pom>central=

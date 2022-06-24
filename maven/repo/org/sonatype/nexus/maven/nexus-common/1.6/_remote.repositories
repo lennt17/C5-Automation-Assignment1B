@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 13 14:29:29 ICT 2022
+nexus-common-1.6.jar>rso-public-grid=
+nexus-common-1.6.jar>central=
+nexus-common-1.6.pom>rso-public-grid=

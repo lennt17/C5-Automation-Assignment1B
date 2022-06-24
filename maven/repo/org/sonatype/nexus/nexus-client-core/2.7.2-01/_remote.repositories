@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 13 14:29:29 ICT 2022
+nexus-client-core-2.7.2-01.jar>central=
+nexus-client-core-2.7.2-01.pom>rso-public-grid=
+nexus-client-core-2.7.2-01.jar>rso-public-grid=

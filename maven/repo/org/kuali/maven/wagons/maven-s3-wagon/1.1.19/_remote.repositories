@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 13 14:34:07 ICT 2022
+maven-s3-wagon-1.1.19.pom>sonatype-nexus-archon=
+maven-s3-wagon-1.1.19.jar>sonatype-nexus-archon=

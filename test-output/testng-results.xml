@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-23T23:17:16 ICT" name="All Test Suite" finished-at="2022-06-23T23:19:57 ICT" duration-ms="160970">
+    <groups>
+    </groups>
+    <test started-at="2022-06-23T23:17:16 ICT" name="Test Search" finished-at="2022-06-23T23:19:57 ICT" duration-ms="160970">
+      <class name="com.vmo.test.DemoTest">
+        <test-method is-config="true" signature="beforeSuite(java.lang.String)[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:17:07 ICT" name="beforeSuite" finished-at="2022-06-23T23:17:16 ICT" duration-ms="8749" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:17:16 ICT" name="beforeTest" finished-at="2022-06-23T23:17:18 ICT" duration-ms="2340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="getProducts01Ebay()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:17:18 ICT" name="getProducts01Ebay" finished-at="2022-06-23T23:19:45 ICT" duration-ms="146544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProducts01Ebay -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:19:45 ICT" name="afterMethod" finished-at="2022-06-23T23:19:48 ICT" duration-ms="2365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="getProducts02Amazon()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:19:48 ICT" name="getProducts02Amazon" finished-at="2022-06-23T23:19:55 ICT" duration-ms="6801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProducts02Amazon -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:19:55 ICT" name="afterMethod" finished-at="2022-06-23T23:19:56 ICT" duration-ms="1647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testSort()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:19:56 ICT" name="testSort" finished-at="2022-06-23T23:19:56 ICT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSort -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:19:56 ICT" name="afterMethod" finished-at="2022-06-23T23:19:57 ICT" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.vmo.test.DemoTest@1dba4e06]" started-at="2022-06-23T23:19:57 ICT" name="afterSuite" finished-at="2022-06-23T23:19:58 ICT" duration-ms="1295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.vmo.test.DemoTest -->
+    </test> <!-- Test Search -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
